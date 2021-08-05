@@ -35,6 +35,7 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^3.8.0",
     "graphql": "^15.5.1",
     "graphql-request": "^3.4.0",
     "imagemin-mozjpeg": "^9.0.0",
